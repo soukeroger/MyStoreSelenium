@@ -11,6 +11,7 @@ import org.openqa.selenium.support.ui.Select;
 public class MyStoreLandingPage {
 
     WebDriver driver;
+//
 
     By signIn = By.className("login");
     By createAccount = By.id("email_create");
@@ -21,12 +22,13 @@ public class MyStoreLandingPage {
     By enterLastName = By.id("customer_lastname");
     By enterEmail = By.id("email");
     By enterPassword = By.id("passwd");
-//    Select select = new Select(driver.findElement(By.id("days")));
-//    WebElement option = select.getFirstSelectedOption();
 
-    public MyStoreLandingPage(WebDriver driver){
+//    The above 8By's represent Element Locators
+    public MyStoreLandingPage(WebDriver driver1){
 
-        this.driver = driver;
+        this.driver = driver1;
+//        driver1 is a local driver
+//        constructor to instantiate webdriver
     }
 
     public void setSignin(){
@@ -64,8 +66,18 @@ public class MyStoreLandingPage {
         driver.findElement(enterPassword).sendKeys(pwd);
     }
 
+//    public void selectDays(){
+//        WebElement selectDays = driver.findElement(By.id("days"));
+//        selectDays.isSelected();
+
+//    public void setEnterTitle(){
+//        WebElement selectTitle = driver.findElement(enterTitle);
+//        selectTitle.click();
 
 
+
+
+//    Above 8 methods to call the above 8 element locators
 
 
 
