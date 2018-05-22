@@ -14,6 +14,8 @@ public class DropDownPage {
     By setDays = By.id("days");
     By setMonths = By.id("months");
     By setYears = By.id("years");
+    By setState = By.id("id_state");
+    By setCountry = By.id("id_country");
 
 
     public DropDownPage(WebDriver driver1) {
@@ -37,6 +39,18 @@ public class DropDownPage {
         WebElement selectYears = driver.findElement(setYears);
         Select dropdown = new Select(selectYears);
         dropdown.selectByValue("2018");
+    }
+
+    public void setState() {
+        WebElement selectState = driver.findElement(setState);
+        Select dropdown = new Select((selectState));
+        dropdown.selectByValue("46");
+    }
+
+    public void setCountry() {
+        WebElement selectCountry = driver.findElement(setCountry);
+        Select dropdown = new Select((selectCountry));
+        dropdown.selectByValue("21");
     }
 
 
