@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="586a02d0-43db-4bd0-8caf-fb83233afe5d" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Helper/BrowserFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MyStoreDemo/VerifyValidAccountCreation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/MyStoreLandingPageNew.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MyStoreDemo/UserCreatesAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyStoreDemo/UserCreatesAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/DropDownPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/DropDownPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/MyStoreLandingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/MyStoreLandingPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/MyStoreDemo/UserCreatesAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/MyStoreDemo/UserCreatesAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/DropDownPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/DropDownPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pages/MyStoreLandingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pages/MyStoreLandingPage.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -25,20 +22,64 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+            <state relative-caret-position="51">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyStoreLandingPage.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/MyStoreLandingPage.java">
+      <file leaf-file-name="MyStoreLandingPageNew.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/MyStoreLandingPageNew.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1403">
-              <caret line="97" selection-start-line="97" selection-end-line="97" />
+            <state relative-caret-position="213">
+              <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="VerifyValidAccountCreation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MyStoreDemo/VerifyValidAccountCreation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="19" column="64" lean-forward="true" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NativeMethodAccessorImpl.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyStoreLandingPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pages/MyStoreLandingPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-204">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1148#1149#0" expanded="true" />
+                <element signature="e#1198#1199#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoteWebDriver.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.7.1/selenium-remote-driver-3.7.1-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-14">
+              <caret line="553" column="45" lean-forward="true" selection-start-line="553" selection-start-column="45" selection-end-line="553" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -46,20 +87,8 @@
       <file leaf-file-name="UserCreatesAccount.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/MyStoreDemo/UserCreatesAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="73" selection-start-line="73" selection-end-line="73" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DropDownPage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/DropDownPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+            <state relative-caret-position="60">
+              <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,8 +114,14 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/MyStoreDemo/UserCreatesAccount.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/DropDownPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/MyStoreDemo/UserCreatesAccount.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/MyStoreLandingPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PageFactory/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/LandingPageNew.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MyStoreDemo/VerifyAccountCreation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MyStoreDemo/UserCreatesAccount.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Helper/BrowserFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MyStoreDemo/VerifyValidAccountCreation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pages/MyStoreLandingPageNew.java" />
       </list>
     </option>
   </component>
@@ -97,10 +132,26 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MyStoreProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="MyStoreProject" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="width" value="1296" />
-    <option name="height" value="744" />
+    <option name="x" value="-12" />
+    <option name="width" value="981" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -108,8 +159,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -156,6 +205,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,7 +228,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.VerifyValidAccountCreation.createAccount">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -198,6 +249,52 @@
       <option name="MAIN_CLASS_NAME" value="MyStoreDemo.UserCreatesAccount" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="VerifyValidAccountCreation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyStoreSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyStoreDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="MyStoreDemo" />
+      <option name="MAIN_CLASS_NAME" value="MyStoreDemo.VerifyValidAccountCreation" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="VerifyValidAccountCreation.createAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyStoreSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyStoreDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="MyStoreDemo" />
+      <option name="MAIN_CLASS_NAME" value="MyStoreDemo.VerifyValidAccountCreation" />
+      <option name="METHOD_NAME" value="createAccount" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -272,25 +369,6 @@
       </Profilers>
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -348,8 +426,15 @@
       <envs />
       <method />
     </configuration>
+    <list>
+      <item itemvalue="JUnit.VerifyValidAccountCreation.createAccount" />
+      <item itemvalue="JUnit.UserCreatesAccount" />
+      <item itemvalue="JUnit.VerifyValidAccountCreation" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.VerifyValidAccountCreation.createAccount" />
+        <item itemvalue="JUnit.VerifyValidAccountCreation" />
         <item itemvalue="JUnit.UserCreatesAccount" />
       </list>
     </recent_temporary>
@@ -373,77 +458,109 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UserCreatesAccount - 2018.05.21 at 21h 15m 30s.xml">
+    <history-entry file="VerifyValidAccountCreation_createAccount - 2018.08.31 at 14h 15m 10s.xml">
+      <configuration name="VerifyValidAccountCreation.createAccount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VerifyValidAccountCreation_createAccount - 2018.08.31 at 14h 16m 40s.xml">
+      <configuration name="VerifyValidAccountCreation.createAccount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserCreatesAccount - 2018.08.31 at 14h 21m 56s.xml">
       <configuration name="UserCreatesAccount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserCreatesAccount - 2018.05.21 at 21h 18m 33s.xml">
+    <history-entry file="VerifyValidAccountCreation - 2018.08.31 at 14h 22m 53s.xml">
+      <configuration name="VerifyValidAccountCreation" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserCreatesAccount - 2018.08.31 at 14h 25m 33s.xml">
       <configuration name="UserCreatesAccount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserCreatesAccount - 2018.05.21 at 21h 19m 44s.xml">
-      <configuration name="UserCreatesAccount" configurationId="JUnit" />
+    <history-entry file="VerifyValidAccountCreation_createAccount - 2018.08.31 at 14h 26m 51s.xml">
+      <configuration name="VerifyValidAccountCreation.createAccount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserCreatesAccount - 2018.05.22 at 11h 48m 50s.xml">
-      <configuration name="UserCreatesAccount" configurationId="JUnit" />
+    <history-entry file="VerifyValidAccountCreation - 2018.08.31 at 14h 27m 12s.xml">
+      <configuration name="VerifyValidAccountCreation" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserCreatesAccount - 2018.05.22 at 12h 26m 59s.xml">
-      <configuration name="UserCreatesAccount" configurationId="JUnit" />
+    <history-entry file="VerifyValidAccountCreation_createAccount - 2018.08.31 at 14h 30m 54s.xml">
+      <configuration name="VerifyValidAccountCreation.createAccount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserCreatesAccount - 2018.05.22 at 13h 55m 16s.xml">
-      <configuration name="UserCreatesAccount" configurationId="JUnit" />
+    <history-entry file="VerifyValidAccountCreation_createAccount - 2018.08.31 at 14h 34m 00s.xml">
+      <configuration name="VerifyValidAccountCreation.createAccount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserCreatesAccount - 2018.05.22 at 14h 41m 23s.xml">
-      <configuration name="UserCreatesAccount" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserCreatesAccount - 2018.05.22 at 14h 43m 08s.xml">
-      <configuration name="UserCreatesAccount" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserCreatesAccount - 2018.05.22 at 14h 54m 48s.xml">
-      <configuration name="UserCreatesAccount" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UserCreatesAccount - 2018.05.22 at 15h 05m 12s.xml">
-      <configuration name="UserCreatesAccount" configurationId="JUnit" />
+    <history-entry file="VerifyValidAccountCreation_createAccount - 2018.08.31 at 14h 35m 21s.xml">
+      <configuration name="VerifyValidAccountCreation.createAccount" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3282572" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3274648" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32955465" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" x="0" y="248" width="1281" height="194" id="Run" order="2" weight="0.3282572" />
+      <window_info active="true" anchor="bottom" x="0" y="248" width="1281" height="194" id="Run" order="2" visible="true" weight="0.3274648" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3274648" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1811085" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19919029" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3996479" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Properties" order="7" />
       <window_info anchor="bottom" id="SBT Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info id="Nl-Palette" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14898786" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" x="0" y="248" width="1281" height="194" id="Run" order="2" visible="true" weight="0.3274648" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Properties" order="7" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="SBT Console" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3274648" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3274648" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32955465" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="10" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -460,10 +577,90 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/MyStoreLandingPage.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/DropDownPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyStoreDemo/UserCreatesAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyStoreDemo/UserCreatesAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/DropDownPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/MyStoreLandingPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/MyStoreLandingPage.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1275">
           <caret line="75" selection-start-line="75" selection-end-line="75" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -501,6 +698,8 @@
           <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -558,6 +757,8 @@
           <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -575,6 +776,8 @@
           <caret line="65" column="56" selection-start-line="65" selection-start-column="56" selection-end-line="65" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -602,6 +805,8 @@
           <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -629,6 +834,8 @@
           <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -656,6 +863,8 @@
           <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -683,6 +892,8 @@
           <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -715,37 +926,93 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MyStoreDemo/UserCreatesAccount.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/PageFactory/BasePage.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/VerifyAccountCreation.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyStoreDemo/VerifyAccountCreation.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Helper/BrowserFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        <state relative-caret-position="187">
+          <caret line="11" column="64" selection-start-line="11" selection-start-column="64" selection-end-line="11" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/DropDownPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        <state relative-caret-position="300">
+          <caret line="28" column="35" selection-start-line="26" selection-start-column="50" selection-end-line="28" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.7.1/selenium-remote-driver-3.7.1.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="142" column="64" selection-start-line="142" selection-start-column="64" selection-end-line="142" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.7.1/selenium-remote-driver-3.7.1-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="553" column="45" lean-forward="true" selection-start-line="553" selection-start-column="45" selection-end-line="553" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/MyStoreLandingPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1148#1149#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MyStoreDemo/UserCreatesAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        <state relative-caret-position="60">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/MyStoreLandingPage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/MyStoreLandingPageNew.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1403">
-          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        <state relative-caret-position="213">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MyStoreDemo/VerifyValidAccountCreation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="19" column="64" lean-forward="true" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -792,6 +1059,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
+          <last-edited>10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
