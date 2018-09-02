@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="586a02d0-43db-4bd0-8caf-fb83233afe5d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MyStoreDemo/VerifyValidAccountCreation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/MyStoreDemo/VerifyValidAccountCreation.java" afterDir="false" />
-    </list>
+    <list default="true" id="586a02d0-43db-4bd0-8caf-fb83233afe5d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +37,7 @@
       <file leaf-file-name="VerifyValidAccountCreation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/MyStoreDemo/VerifyValidAccountCreation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
+            <state relative-caret-position="197">
               <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -154,7 +151,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-12" />
     <option name="width" value="981" />
     <option name="height" value="1044" />
@@ -472,9 +469,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UserCreatesAccount - 2018.08.31 at 14h 21m 56s.xml">
-      <configuration name="UserCreatesAccount" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="VerifyValidAccountCreation - 2018.08.31 at 14h 22m 53s.xml">
       <configuration name="VerifyValidAccountCreation" configurationId="JUnit" />
     </history-entry>
@@ -502,10 +496,12 @@
     <history-entry file="VerifyValidAccountCreation_createAccount - 2018.09.02 at 16h 46m 28s.xml">
       <configuration name="VerifyValidAccountCreation.createAccount" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="VerifyValidAccountCreation_createAccount - 2018.09.02 at 17h 02m 34s.xml">
+      <configuration name="VerifyValidAccountCreation.createAccount" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -516,8 +512,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="1" weight="0.32955465" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" x="0" y="248" width="1281" height="194" id="Run" order="2" visible="true" weight="0.3274648" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3274648" />
+      <window_info anchor="bottom" x="0" y="248" width="1281" height="194" id="Run" order="2" weight="0.3274648" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3274648" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19919029" />
@@ -1020,7 +1016,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/MyStoreDemo/VerifyValidAccountCreation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
+        <state relative-caret-position="197">
           <caret line="20" column="63" selection-start-line="20" selection-start-column="63" selection-end-line="20" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
