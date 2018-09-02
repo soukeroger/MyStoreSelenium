@@ -28,7 +28,7 @@ public class UserCreatesAccount {
 
     @Test
     public void createAccount() throws InterruptedException {
-        System.setProperty("webdriver.gecko.driver", "C:\\workspace\\geckodriver.exe");
+        System.setProperty("webdriver.gecko.driver", "C:\\workspace\\chromedriver.exe");
         WebDriver driver = new FirefoxDriver();
         driver.navigate().to("http://automationpractice.com/index.php");
 
