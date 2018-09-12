@@ -22,11 +22,13 @@ public class VerifyValidAccountCreation {
 
             MyStoreLandingPageNew sign_in_page = PageFactory.initElements(driver,MyStoreLandingPageNew.class);
             sign_in_page.createAccount("signIn@demo.com", "rabit", "Whisl", "dfdsfs", "23");
-
-            DropDownPage chooseDays = PageFactory.initElements(driver, DropDownPage.class);
-            chooseDays.setDays();
-            DropDownPage chooseMnths = PageFactory.initElements(driver, DropDownPage.class);
-            chooseMnths.setMonths();
+//
+//            DropDownPage chooseDays = PageFactory.initElements(driver, DropDownPage.class);
+//            chooseDays.setDays();
+//            DropDownPage chooseMnths = PageFactory.initElements(driver, DropDownPage.class);
+//            chooseMnths.setMonths();
+//            DropDownPage chooseyear = PageFactory.initElements(driver, DropDownPage.class);
+//            chooseyear.setYears();
 
 
 
