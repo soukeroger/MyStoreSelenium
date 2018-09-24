@@ -17,14 +17,14 @@ import pages.MyStoreLandingPage;
 public class UserCreatesAccount {
 
     @Test
-    public void startWebDriver(){
+    public void startWebDriver() {
 
         System.setProperty("webdriver.gecko.driver", "C:\\workspace\\geckodriver.exe");
         WebDriver driver = new FirefoxDriver();
         driver.navigate().to("http://automationpractice.com/index.php");
         Assert.assertTrue("title should start with My Store",
-          driver.getTitle().startsWith("My Store"));
-}
+                driver.getTitle().startsWith("My Store"));
+    }
 
     @Test
     public void createAccount() throws InterruptedException {
@@ -51,7 +51,7 @@ public class UserCreatesAccount {
         selectMonths.setMonths();
         Thread.sleep(3000);
 
-        DropDownPage selectYears =  new DropDownPage(driver);
+        DropDownPage selectYears = new DropDownPage(driver);
         selectYears.setYears();
 
         signIn.setEnterFirstName("qa");
@@ -74,7 +74,6 @@ public class UserCreatesAccount {
         signIn.setEnterAdditionalAddress("2 swan road");
 
 
-
-
     }
+
 }

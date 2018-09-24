@@ -28,6 +28,7 @@ public class MyStoreLandingPage {
     By enterPostCode = By.id("postcode");
     By enterMobileNumber = By.id("phone_mobile");
     By enterAdditionalAddress = By.id("alias");
+//    By searchDress = By.id("search_query_top");
 
     //    The above 8By's represent Element Locators
     public MyStoreLandingPage(WebDriver driver1) {
@@ -95,6 +96,11 @@ public class MyStoreLandingPage {
     public void setEnterMobileNumber(String mn){
         driver.findElement(enterMobileNumber).clear();
         driver.findElement(enterMobileNumber).sendKeys(mn);}
+
+//        public void searchItem(String dr){
+//        driver.findElement(searchDress).clear();
+//        driver.findElement(searchDress).sendKeys(dr);
+//        }
 
     public void setEnterAdditionalAddress(String eaa){
         driver.findElement(enterAdditionalAddress).clear();
