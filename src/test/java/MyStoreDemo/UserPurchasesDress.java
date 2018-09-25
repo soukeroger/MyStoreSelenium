@@ -30,6 +30,10 @@ public class UserPurchasesDress {
         Thread.sleep(2000);
         dressChoice.clickOnQuickView();
         dressChoice.addDressQty("4");
+        dressChoice.clickOCart();
+
+        Thread.sleep(2000);
+        dressChoice.clickOnProceed();
 
     }
 }
