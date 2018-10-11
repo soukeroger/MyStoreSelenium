@@ -24,6 +24,7 @@ public class MyStoreAccountPage {
     By switchWindow = By.cssSelector(".btn.btn-default.button.button-medium>span");
     By proceed = By.cssSelector(".btn.btn-default.button.button-medium>span");
 
+
     public MyStoreAccountPage(WebDriver driver1) {
 
         this.driver = driver1;
@@ -84,6 +85,10 @@ public class MyStoreAccountPage {
 
     public void clickOnProceed(){
         driver.findElement(proceed).click();
+    }
+
+    public void assertCartTitle(){
+        Assert.assertEquals("Shopping-cart summary", driver.findElement(By.className("navigation_page")).isDisplayed(), true);
     }
 
     public void switchWindows() {

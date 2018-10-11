@@ -34,7 +34,7 @@ public class UserPurchasesDress {
 
         Thread.sleep(2000);
         dressChoice.clickOnProceed();
-
+        dressChoice.assertCartTitle();
     }
 }
 
