@@ -38,11 +38,4 @@ public class UserPurchasesDress {
     }
 }
 
-//    public void startWebdriver() throws InterruptedException {
-//        System.setProperty("webdriver.gecko.driver", "C:\\workspace\\geckodriver.exe");
-//        WebDriver driver = new FirefoxDriver();
-//        driver.navigate().to("http://automationpractice.com/index.php");
-//        Assert.assertTrue("My Store",
-//                driver.getTitle().startsWith("My Store"));
-//
-//    }
+
